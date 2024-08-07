@@ -11,6 +11,14 @@ Make sure you have the following installed on your system:
 - GLFW library
 - OpenGL
 
+For MacOS, you can install GLFW and other important stuff using Homebrew:
+
+```sh
+brew install glfw
+brew install cmake
+brew install glad
+```
+
 ## Building the Project
 
 Follow these steps to build the project:
