@@ -1,7 +1,0 @@
-{
-    "cmake.sourceDirectory": "/Users/mateuszanella/Desktop/facul/COMPUTACAO-GRAFICA/test-opengl/src",
-    "files.associations": {
-        "*.gohtml": "html",
-        "glad.h": "c"
-    }
-}
